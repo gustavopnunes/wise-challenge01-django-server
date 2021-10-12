@@ -5,7 +5,7 @@
     "fields": {
       "nome": "Monitor",
       "quantidade": 4,
-      "preco": 980.0
+      "preco": "980.00"
     }
   },
   {
@@ -14,7 +14,7 @@
     "fields": {
       "nome": "Webcam",
       "quantidade": 6,
-      "preco": 170.0
+      "preco": "170.00"
     }
   },
   {
@@ -23,7 +23,7 @@
     "fields": {
       "nome": "Teclado",
       "quantidade": 6,
-      "preco": 120.45
+      "preco": "120.45"
     }
   },
   {
@@ -32,7 +32,7 @@
     "fields": {
       "nome": "Mouse",
       "quantidade": 10,
-      "preco": 155.8
+      "preco": "155.80"
     }
   },
   {
@@ -41,7 +41,7 @@
     "fields": {
       "nome": "Headset",
       "quantidade": 3,
-      "preco": 370.99
+      "preco": "370.99"
     }
   },
   {
@@ -50,7 +50,7 @@
     "fields": {
       "nome": "Processador",
       "quantidade": 1,
-      "preco": 2200.0
+      "preco": "2200.00"
     }
   },
   {
@@ -59,7 +59,7 @@
     "fields": {
       "nome": "Placa de vídeo",
       "quantidade": 2,
-      "preco": 3499.99
+      "preco": "3499.99"
     }
   },
   {
@@ -68,7 +68,7 @@
     "fields": {
       "nome": "Fonte",
       "quantidade": 2,
-      "preco": 550.0
+      "preco": "550.00"
     }
   },
   {
@@ -77,7 +77,7 @@
     "fields": {
       "nome": "SSD",
       "quantidade": 6,
-      "preco": 480.0
+      "preco": "480.00"
     }
   },
   {
@@ -86,7 +86,7 @@
     "fields": {
       "nome": "Placa mãe",
       "quantidade": 6,
-      "preco": 990.0
+      "preco": "990.00"
     }
   }
 ]
