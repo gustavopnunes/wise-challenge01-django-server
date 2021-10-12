@@ -4,7 +4,7 @@ from decouple import config
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-r1#88hr45vrce05=cat682k2n$9r+^7142d#^+0@#fmm3ln@_s'
-DEBUG = config('DEBUG', cast=bool, default=False)
+DEBUG = config('DEBUG', cast=bool, default=True)
 DEBUG_PROPAGATE_EXCEPTIONS = True
 ALLOWED_HOSTS = ['*']
 CORS_ORIGIN_ALLOW_ALL = True
