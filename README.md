@@ -17,7 +17,20 @@ Repositório front-end: <br />
 - Django
 - Django rest framework
 
+### INSTRUÇÕES PARA USO LOCAL (NECESSÁRIO PYTHON INSTALADO E FUNCIONAL):
 
- 
- 
+1. Clone o repositório e acesse o diretório: 
+> git clone git@github.com:gustavopnunes/wise-challenge01-django-server.git && cd wise-challenge01-django-server
+2. Crie um novo ambiente virtual e o ative
+> python -m venv venv && source venv/bin/activate
+3. Instale as dependências do projeto 
+> pip install -r requirements.txt
+4. Inicie o servidor 
+> python manage.py runserver
+Com tudo correto, você deverá ver algo desse tipo:
+![Screenshot from 2021-10-11 19-36-17](https://user-images.githubusercontent.com/82281710/137028618-dad4d8da-ec5a-4461-9dd6-95c8e546cf7f.png)
+
+Pronto! Você já pode fazer requisições usando seu cliente favorito no endereço indicado em "Running on". 
+
+
  
