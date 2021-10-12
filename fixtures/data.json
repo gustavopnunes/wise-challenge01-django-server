@@ -1,0 +1,92 @@
+[
+  {
+    "model": "wise_products.produto",
+    "pk": 1,
+    "fields": {
+      "nome": "Monitor",
+      "quantidade": 4,
+      "preco": 980.0
+    }
+  },
+  {
+    "model": "wise_products.produto",
+    "pk": 2,
+    "fields": {
+      "nome": "Webcam",
+      "quantidade": 6,
+      "preco": 170.0
+    }
+  },
+  {
+    "model": "wise_products.produto",
+    "pk": 3,
+    "fields": {
+      "nome": "Teclado",
+      "quantidade": 6,
+      "preco": 120.4
+    }
+  },
+  {
+    "model": "wise_products.produto",
+    "pk": 4,
+    "fields": {
+      "nome": "Mouse",
+      "quantidade": 10,
+      "preco": 155.8
+    }
+  },
+  {
+    "model": "wise_products.produto",
+    "pk": 5,
+    "fields": {
+      "nome": "Headset",
+      "quantidade": 3,
+      "preco": 370.99
+    }
+  },
+  {
+    "model": "wise_products.produto",
+    "pk": 6,
+    "fields": {
+      "nome": "Processador",
+      "quantidade": 1,
+      "preco": 2200.0
+    }
+  },
+  {
+    "model": "wise_products.produto",
+    "pk": 7,
+    "fields": {
+      "nome": "Placa de vídeo",
+      "quantidade": 2,
+      "preco": 3499.99
+    }
+  },
+  {
+    "model": "wise_products.produto",
+    "pk": 8,
+    "fields": {
+      "nome": "Fonte",
+      "quantidade": 2,
+      "preco": 550.0
+    }
+  },
+  {
+    "model": "wise_products.produto",
+    "pk": 9,
+    "fields": {
+      "nome": "SSD",
+      "quantidade": 6,
+      "preco": 480.0
+    }
+  },
+  {
+    "model": "wise_products.produto",
+    "pk": 10,
+    "fields": {
+      "nome": "Placa mãe",
+      "quantidade": 6,
+      "preco": 990.0
+    }
+  }
+]
