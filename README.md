@@ -28,9 +28,10 @@ Repositório front-end: <br />
 4. Inicie o servidor 
 > python manage.py runserver
 Com tudo correto, você deverá ver algo desse tipo:
-![Screenshot from 2021-10-11 19-36-17](https://user-images.githubusercontent.com/82281710/137028618-dad4d8da-ec5a-4461-9dd6-95c8e546cf7f.png)
 
-Pronto! Você já pode fazer requisições usando seu cliente favorito no endereço indicado em "Running on". 
+![Screenshot from 2021-10-14 15-55-28](https://user-images.githubusercontent.com/82281710/137378824-696d8e50-3550-4879-8923-a59c46c2062e.png)
+
+Pronto! Você já pode fazer requisições usando seu cliente favorito no endereço indicado na penúltima linha.
 
 
  
